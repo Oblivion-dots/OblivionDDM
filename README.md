@@ -2,7 +2,7 @@
   <img src="https://github.com/Oblivion-dots/OblivionDDM/blob/main/Previews/Oblivion.png" />
 </p>
 <p align="center">
-OblivionDDM is a fork of the sddm-astronaut-theme by Keyitdev with new themes and YAD-based gui.
+OblivionDDM is a fork of the sddm-astronaut-theme with new themes and YAD-based gui.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-ff7a18?style=flat-square&logo=linux&logoColor=white" alt="Linux Badge">
