@@ -1,65 +1,65 @@
 <p align="center">
-  <img src="https://github.com/Orbital-dots/OblivianDDMm/blob/main/Previews/OblivianDDM.png" />
+  <img src="https://github.com/Orbital-dots/OblivionDDM/blob/main/Previews/OblivionDDM.png" />
 </p>
 <p align="center">
-HyprDDM is a fork of the sddm-astronaut-theme by Keyitdev with new themes and YAD-based gui.
+OblivionDDM is a fork of the sddm-astronaut-theme by Keyitdev with new themes and YAD-based gui.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-ff7a18?style=flat-square&logo=linux&logoColor=white" alt="Linux Badge">
-  <img src="https://img.shields.io/github/stars/Orbital-dots/hyprddm?style=flat-square&color=ff7a18" alt="GitHub Repo stars">
-  <img src="https://img.shields.io/github/forks/Orbital-dots/hyprddm?style=flat-square&color=ff7a18" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/stars/Orbital-dots/OblivionDDM?style=flat-square&color=ff7a18" alt="GitHub Repo stars">
+  <img src="https://img.shields.io/github/forks/Orbital-dots/OblivionDDM?style=flat-square&color=ff7a18" alt="GitHub Forks">
 </p>
 
 ### Automatic Installation with Theme Selector
 
-The easiest way to install hyprDDM and use the theme selector is to run the `install.sh` script:
+The easiest way to install OblivionDDM and use the theme selector is to run the `install.sh` script:
 
 ```sh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/Orbital-dots/hyprddm/main/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Orbital-dots/OblivionDDM/main/install.sh)"
 ```
 *Please note that this download is at least 420mb!
 ## Detailed Previews
 
 | **Chainsaw Fury** | **Renzu** |
 |:--:|:--:|
-| <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/chainsaw_fury.png" width="500"> | <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/renzu.png" width="500"> |
+| <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/chainsaw_fury.png" width="500"> | <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/renzu.png" width="500"> |
 
 | **Cybermonk** | **Ghost** |
 |:--:|:--:|
-| <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/cybermonk.png" width="500"> | <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/ghost.png" width="500"> |
+| <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/cybermonk.png" width="500"> | <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/ghost.png" width="500"> |
 
 | **Cloud** | **Neon Jinx** |
 |:--:|:--:|
-| <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/cloud.png" width="500"> | <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/neon_jinx.png" width="500"> |
+| <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/cloud.png" width="500"> | <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/neon_jinx.png" width="500"> |
 
 | **Savage** | **Starman** |
 |:--:|:--:|
-| <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/savage.png" width="500"> | <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/starman.png" width="500"> |
+| <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/savage.png" width="500"> | <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/starman.png" width="500"> |
 
 | **Astronaut** | **Cyberpunk** |
 |:--:|:--:|
-| <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/astronaut.png" width="500"> | <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/cyberpunk.png" width="500"> |
+| <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/astronaut.png" width="500"> | <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/cyberpunk.png" width="500"> |
 
 | **Hyprland Kath** | **Jake the Dog** |
 |:--:|:--:|
-| <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/hyprland_kath.png" width="500"> | <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/jake_the_dog.png" width="500"> |
+| <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/hyprland_kath.png" width="500"> | <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/jake_the_dog.png" width="500"> |
 
 | **Japanese Aesthetic** | **Pixel Sakura** |
 |:--:|:--:|
-| <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/japanese_aesthetic.png" width="500"> | <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/pixel_sakura_static.png" width="500"> |
+| <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/japanese_aesthetic.png" width="500"> | <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/pixel_sakura_static.png" width="500"> |
 
 | **Post-Apocalyptic Hacker** | **Purple Leaves** |
 |:--:|:--:|
-| <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/post-apocalyptic_hacker.png" width="500"> | <img src="https://github.com/Orbital-dots/hyprddm/raw/main/Previews/purple_leaves.png" width="500"> |
+| <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/post-apocalyptic_hacker.png" width="500"> | <img src="https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/purple_leaves.png" width="500"> |
 
 ### Preview of Themes
 
-![All Themes Preview](https://github.com/Orbital-dots/hyprddm/raw/main/Previews/previews.gif)
+![All Themes Preview](https://github.com/Orbital-dots/OblivionDDM/raw/main/Previews/previews.gif)
 
 ## This auto-install script will:
 
 Install dependencies.  
-Clone the HyprDDM repository.  
+Clone the OblivionDDM repository.  
 Set up the theme and virtual keyboard.  
 Launch a GUI to preview and apply themes.
 
@@ -67,7 +67,7 @@ Launch a GUI to preview and apply themes.
 
 1. Clone the repository
 ```sh
-sudo git clone -b main --depth 1 https://github.com/Orbital-dots/hyprddm.git /usr/share/sddm/themes/sddm-astronaut-theme
+sudo git clone -b main --depth 1 https://github.com/Orbital-dots/OblivionDDM.git /usr/share/sddm/themes/sddm-astronaut-theme
 ```
 2. Install Dependencies
 ```sh
